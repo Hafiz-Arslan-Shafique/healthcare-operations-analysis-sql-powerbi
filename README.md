@@ -1,7 +1,8 @@
 # 🏥 Healthcare Operations & Revenue Analytics — SQL Server & Power BI
 
 ## 📌 Project Overview
-**End-to-end healthcare operations analysis of 55,501 patient records (2019–2024)** — from SQL Server data cleaning, deduplication, and revenue aggregation to an interactive Power BI dashboard tracking patient volume, hospital revenue, length of stay, and medical-condition performance.
+**This project analyzes 55,500 hospital patient records over five years (2019–2024)** to check whether leadership can trust the numbers behind patient volume, revenue and length of stay. It uncovers that **5,514 duplicate visits (9.9% of records) were inflating revenue by about $140M (11%)**, leaving a reliable base of **49,986 patients and $1.28bn in revenue**, and that patients stay **15.50 days on average, half a day above the 15-day target**. It provides a trusted reporting view and a plan to close the stay gap, which would free **about 24.9K bed-days (3.2% of all hospital stays)**.
+
 
 ## The Analysis Covers:
 - [Business Problem](#business-problem)
